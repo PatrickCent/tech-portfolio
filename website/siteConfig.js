@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Patrick DiMichele', // Title for your website.
-    tagline: 'Continuously improving, Nice', 'Quiet', 'I want to be Video Games Developer.',
+    tagline: 'Continuously improving, Nice, Quiet, I want to be Video Games Developer.',
     profilePhoto: 'img/profile.png',
     url: 'https://PatrickCent.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
